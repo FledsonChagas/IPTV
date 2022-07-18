@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1, ⚽ Premier League⚽
-#EXTINF:-1,SP: Copa Libertadores: Fox Sports HD (Brasil)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232232
-#EXTINF:-1,SP: Copa Libertadores: Fox Sports 2 HD (Brasil)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232233
-#EXTINF:-1,BR: Telecine Premium HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24279
+#EXTINF:-1, ⚽Fledson IPTV_Full_BR⚽
 #EXTINF:-1,BR: A&E FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24225
 #EXTINF:-1,BR: A&E SD
@@ -118,8 +112,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3327
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3488
 #EXTINF:-1,BR: Discovery World FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24294
-#EXTINF:-1,BR: Discovery World HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3328
 #EXTINF:-1,BR: Disney Channel FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24295
 #EXTINF:-1,BR: Disney Channel HD
@@ -128,98 +120,38 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3296
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3452
 #EXTINF:-1,BR: E! Entertainment HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3510
-#EXTINF:-1,BR: E! Entertainment SD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3484
 #EXTINF:-1,BR: Fish TV HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3406
-#EXTINF:-1,BR: Food Network FHD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24296
-#EXTINF:-1,BR: Food Network HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3311
-#EXTINF:-1,BR: Food Network SD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24273
-#EXTINF:-1,BR: Star Channel FHD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24228
 #EXTINF:-1,BR: Star Channel HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3252
 #EXTINF:-1,BR: Fox Life SD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24229
 #EXTINF:-1,BR: Fox Life 
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3471
-#EXTINF:-1,BR: Star Channel
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3421
 #EXTINF:-1,BR: Fx FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3255
 #EXTINF:-1,BR: Fx HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3422
-#EXTINF:-1,BR: Galinha Pintadinha 24H
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/93700
 #EXTINF:-1,BR: Globo 4K
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24103
-#EXTINF:-1,BR: Globo Brasilia FHD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24209
-#EXTINF:-1,BR: Globo brasilia SD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24190
-#EXTINF:-1,BR: Globo EPTV Campinas HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24191
-#EXTINF:-1,BR: Globo EPTV Ribeirao Preto SD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24192
 #EXTINF:-1,BR: Globo FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24189
 #EXTINF:-1,BR: Globo HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24194
-#EXTINF:-1,BR: Globo Minas HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3285
-#EXTINF:-1,BR: Globo Minas FHD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24188
 #EXTINF:-1,BR: Globo News FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24196
 #EXTINF:-1,BR: Globo News HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3308
 #EXTINF:-1,BR: Globo News SD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3465
-#EXTINF:-1,BR: Globo Nordeste FHD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3286
-#EXTINF:-1,BR: Globo Nordeste HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24197
-#EXTINF:-1,BR: Globo NSC Florianopolis HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24216
-#EXTINF:-1,BR: Globo RBS FHD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24218
-#EXTINF:-1,BR: Globo RBS HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24219
-#EXTINF:-1,BR: Globo RBS TV Pelotas
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24217
-#EXTINF:-1,BR: Globo Rede Amazonica Manaus 
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24198
 #EXTINF:-1,BR: Globo RJ HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3288
 #EXTINF:-1,BR: Globo RJ SD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24199
 #EXTINF:-1,BR: Globo SP HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3289
-#EXTINF:-1,BR: Globo TV Anhanguera Goiania
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24201
-#EXTINF:-1,BR: Globo TV Bahia
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24202
-#EXTINF:-1,BR: Globo TV Centro TRIBUNA SANTOS FHD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/101898
-#EXTINF:-1,BR: Globo TV Centro America HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/101897
-#EXTINF:-1,BR: Globo TV Centro America SD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24203
-#EXTINF:-1,BR: Globo TV Integracao Juiz de Fora 
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24204
-#EXTINF:-1,BR: Globo TV Gazeta Sul ES  HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24205
-#EXTINF:-1,BR: Globo TV TEM Sorocaba SD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24206
-#EXTINF:-1,BR: Globo TV Tribuna Santos 
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24207
-#EXTINF:-1,BR: Globo TV Verdes Mares 
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24210
-#EXTINF:-1,BR: Globo Verdes Mares HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24187
+#EXTINF:-1,BR: TV Gazeta Vitoria
+http://api.magiaiptv.com/live/800376/236548/m2_CJgLgifafdaefasdrgTV_720p
 #EXTINF:-1,BR: Gloobinho HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3300
 #EXTINF:-1,BR: Gloobinho
@@ -412,6 +344,8 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24241
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3275
 #EXTINF:-1,BR: Telecine Pipoca SD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24278
+#EXTINF:-1,BR: Telecine Premium HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24279
 #EXTINF:-1,BR: Telecine Premium FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24240
 #EXTINF:-1,BR: Telecine Premium SD
@@ -528,6 +462,10 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24160
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24161
 #EXTINF:-1,SP: BR: Sportv 3 FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24162
+#EXTINF:-1,SP: Copa Libertadores: Fox Sports HD (Brasil)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232232
+#EXTINF:-1,SP: Copa Libertadores: Fox Sports 2 HD (Brasil)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232233
 #EXTINF:-1,SP: BR: Premiere 1 FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24163
 #EXTINF:-1,SP: BR: Premiere 2 FHD
