@@ -1,26 +1,197 @@
-#EXTM3U x-tvg-url="https://canaisglobo.globo.com/programacao/gz"
-#EXTM3U x-tvg-url="http://especial1.g1.globo.com/globo-news/index.php"
-#EXTM3U x-tvg-url="https://gist.githubusercontent.com/micdouglas/486f35eefa2274fa8ec0ce2e3362ec8d/raw/4094cdba37830eacab50c531399aaec0f19ba29b/EPG%2520Tv%2520a%2520Cabo.xml"
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/clarotv.com.br.channels.xml"
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/vivo.com.br.channels.xml"
-#EXTM3U x-tvg-url="http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/hagah.com.br.channels.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/raizoML/new/main/epg/guide.xml"
-#EXTM3U x-tvg-url="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
-#EXTM3U x-tvg-url="http://epg.liveiptv.net/epg.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mudstein/XML/main/TIZENiptvchile.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/webgrabplus-siteinipack/master/siteini.pack/Brazil/clarotv.com.br.channels.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/webgrabplus-siteinipack/master/siteini.pack/Brazil/redeglobo.globo.com.channels.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/bitsbb01/webgrabplus-siteinipack/master/siteini.pack/Brazil/vivo.com.br.channels.xml"
-#EXTM3U x-tvg-url="https://github.com/Sphinxroot/share01/raw/maUFGster/epg_ripper_BR1.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/a98458c6-873c-4151-8bcd-db84f16c223b" parent-code="" group-title="Globo's", TV Gazeta Vitoria
-http://api.magiaiptv.com/live/800376/236548/m2_CJgLgifafdaefasdrgTV_720p
-
-#EXTINF:-1  tvg-id="N/A" group-title="N/A" tvg-logo="N/A",SBT Goiania TV Serra Dourada
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w840482832_b1000000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2021/12/novo-logotipo-globo-e1638457729974.jpg" parent-code="" group-title="Globo's", GLOBO RJ HD
-http://api.magiaiptv.com/live/800376/236548/m2_kzeKgKsjyTCBUMl4_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2021/12/novo-logotipo-globo-e1638457729974.jpg" parent-code="" group-title="Globo's", GLOBO RJ HD+
-http://api.magiaiptv.com/live/800376/236548/m2_kzeKgKsjyTCBUMl4_720p_2M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f91c83fa-a2ab-11e9-be59-003048de22c4" parent-code="" group-title="Globo's", GLOBO RJ UHD
-http://api.magiaiptv.com/live/800376/236548/m2_kzeKgKsjyTCBUMl4_1080p
+#EXTM3U
+#EXTINF:-1,BR: CANAL BRASIL
+http://iptvch.com:2082/yalc/j38x/208800
+#EXTINF:-1,BR: BIS
+http://iptvch.com:2082/yalc/j38x/208799
+#EXTINF:-1,BR: COMBATE
+http://iptvch.com:2082/yalc/j38x/208815
+#EXTINF:-1,BR: GLOBO BRASILIA
+http://iptvch.com:2082/yalc/j38x/208845
+#EXTINF:-1,BR: GLOBO NEWS
+http://iptvch.com:2082/yalc/j38x/208858
+#EXTINF:-1,BR: RECORD NEWS
+http://iptvch.com:2082/yalc/j38x/208940
+#EXTINF:-1,BR: RECORD NORDESTE
+http://iptvch.com:2082/yalc/j38x/208941
+#EXTINF:-1,BR: RECORD RJ
+http://iptvch.com:2082/yalc/j38x/208943
+#EXTINF:-1,BR: RECORD RS
+http://iptvch.com:2082/yalc/j38x/208944
+#EXTINF:-1,BR: BAND
+http://iptvch.com:2082/yalc/j38x/208795
+#EXTINF:-1,BR: BAND NEWS
+http://iptvch.com:2082/yalc/j38x/208797
+#EXTINF:-1,BR: TBS
+http://iptvch.com:2082/yalc/j38x/208964
+#EXTINF:-1,BR: TCM
+http://iptvch.com:2082/yalc/j38x/208965
+#EXTINF:-1,BR: TNT
+http://iptvch.com:2082/yalc/j38x/208972
+#EXTINF:-1,BR: TNT SÉRIES
+http://iptvch.com:2082/yalc/j38x/208976
+#EXTINF:-1,BR: TELECINE ACTION
+http://iptvch.com:2082/yalc/j38x/208966
+#EXTINF:-1,BR: TELECINE FUN
+http://iptvch.com:2082/yalc/j38x/208968
+#EXTINF:-1,BR: TELECINE PIPOCA
+http://iptvch.com:2082/yalc/j38x/208969
+#EXTINF:-1,BR: TELECINE PREMIUM
+http://iptvch.com:2082/yalc/j38x/208970
+#EXTINF:-1,BR: TELECINE TOUCH
+http://iptvch.com:2082/yalc/j38x/208971
+#EXTINF:-1,BR: HBO
+http://iptvch.com:2082/yalc/j38x/208906
+#EXTINF:-1,BR: HBO 2
+http://iptvch.com:2082/yalc/j38x/208907
+#EXTINF:-1,BR: HBO FAMILY
+http://iptvch.com:2082/yalc/j38x/208908
+#EXTINF:-1,BR: HBO MUNDI
+http://iptvch.com:2082/yalc/j38x/208910
+#EXTINF:-1,BR: HBO PLUS
+http://iptvch.com:2082/yalc/j38x/208911
+#EXTINF:-1,BR: HBO POP
+http://iptvch.com:2082/yalc/j38x/208912
+#EXTINF:-1,BR: HBO SIGNATURE
+http://iptvch.com:2082/yalc/j38x/208913
+#EXTINF:-1,BR: HBO XTREME
+http://iptvch.com:2082/yalc/j38x/208914
+#EXTINF:-1,BR: AMC
+http://iptvch.com:2082/yalc/j38x/208790
+#EXTINF:-1,BR: ANIMAL PLANET
+http://iptvch.com:2082/yalc/j38x/208791
+#EXTINF:-1,BR: ARTE 1
+http://iptvch.com:2082/yalc/j38x/208792
+#EXTINF:-1,BR: AXN
+http://iptvch.com:2082/yalc/j38x/208793
+#EXTINF:-1,BR: BABY TV
+http://iptvch.com:2082/yalc/j38x/208794
+#EXTINF:-1,BR: CANAL SONY
+http://iptvch.com:2082/yalc/j38x/208802
+#EXTINF:-1,BR: CARTOON NETWORK
+http://iptvch.com:2082/yalc/j38x/208804
+#EXTINF:-1,BR: CARTOONITO
+http://iptvch.com:2082/yalc/j38x/208805
+#EXTINF:-1,BR: CINEMAX
+http://iptvch.com:2082/yalc/j38x/208812
+#EXTINF:-1,BR: COMEDY CENTRAL
+http://iptvch.com:2082/yalc/j38x/208816
+#EXTINF:-1,BR: CULTURA
+http://iptvch.com:2082/yalc/j38x/208817
+#EXTINF:-1,BR: CURTA
+http://iptvch.com:2082/yalc/j38x/208818
+#EXTINF:-1,BR: DISCOVERY CHANNEL
+http://iptvch.com:2082/yalc/j38x/208821
+#EXTINF:-1,BR: DISCOVERY H&H
+http://iptvch.com:2082/yalc/j38x/208822
+#EXTINF:-1,BR: DISCOVERY KIDS
+http://iptvch.com:2082/yalc/j38x/208823
+#EXTINF:-1,BR: DISCOVERY TLC
+http://iptvch.com:2082/yalc/j38x/208826
+#EXTINF:-1,BR: DISCOVERY TURBO
+http://iptvch.com:2082/yalc/j38x/208827
+#EXTINF:-1,BR: DISCOVERY WORLD
+http://iptvch.com:2082/yalc/j38x/208828
+#EXTINF:-1,BR: DISNEY CHANNEL
+http://iptvch.com:2082/yalc/j38x/208829
+#EXTINF:-1,BR: DISNEY JUNIOR
+http://iptvch.com:2082/yalc/j38x/208830
+#EXTINF:-1,BR: DISNEY STARWARS
+http://iptvch.com:2082/yalc/j38x/208831
+#EXTINF:-1,BR: DISNEY XD
+http://iptvch.com:2082/yalc/j38x/208832
+#EXTINF:-1,BR: DOG TV
+http://iptvch.com:2082/yalc/j38x/208833
+#EXTINF:-1,BR: E!
+http://iptvch.com:2082/yalc/j38x/208834
+#EXTINF:-1,BR: ESPN
+http://iptvch.com:2082/yalc/j38x/208987
+#EXTINF:-1,BR: ESPN 2
+http://iptvch.com:2082/yalc/j38x/208988
+#EXTINF:-1,BR: ESPN EXTRA
+http://iptvch.com:2082/yalc/j38x/208990
+#EXTINF:-1,BR: FOOD NETWORK
+http://iptvch.com:2082/yalc/j38x/208836
+#EXTINF:-1,BR: FUTURA
+http://iptvch.com:2082/yalc/j38x/208839
+#EXTINF:-1,BR: FX
+http://iptvch.com:2082/yalc/j38x/208841
+#EXTINF:-1,BR: GLOOB
+http://iptvch.com:2082/yalc/j38x/208902
+#EXTINF:-1,BR: GLOOBINHO
+http://iptvch.com:2082/yalc/j38x/208903
+#EXTINF:-1,BR: HISTORY
+http://iptvch.com:2082/yalc/j38x/208916
+#EXTINF:-1,BR: LIFETIME
+http://iptvch.com:2082/yalc/j38x/208919
+#EXTINF:-1,BR: MAIS GLOBOSAT
+http://iptvch.com:2082/yalc/j38x/208923
+#EXTINF:-1,BR: MEGAPIX
+http://iptvch.com:2082/yalc/j38x/208924
+#EXTINF:-1,BR: MTV
+http://iptvch.com:2082/yalc/j38x/208927
+#EXTINF:-1,BR: MTV 00S
+http://iptvch.com:2082/yalc/j38x/208928
+#EXTINF:-1,BR: MUSIC BOX BRAZIL
+http://iptvch.com:2082/yalc/j38x/208930
+#EXTINF:-1,BR: NOVO TEMPO
+http://iptvch.com:2082/yalc/j38x/208937
+#EXTINF:-1,BR: OFF
+http://iptvch.com:2082/yalc/j38x/208938
+#EXTINF:-1,BR: PARAMOUNT CHANNEL
+http://iptvch.com:2082/yalc/j38x/208939
+#EXTINF:-1,BR: REDE TV
+http://iptvch.com:2082/yalc/j38x/208946
+#EXTINF:-1,BR: REDE VIDA
+http://iptvch.com:2082/yalc/j38x/208947
+#EXTINF:-1,BR: SBT BRASILIA
+http://iptvch.com:2082/yalc/j38x/208950
+#EXTINF:-1,BR: SONY
+http://iptvch.com:2082/yalc/j38x/208954
+#EXTINF:-1,BR: STAND UP COMEDIA
+http://iptvch.com:2082/yalc/j38x/208959
+#EXTINF:-1,BR: STAR LIFE
+http://iptvch.com:2082/yalc/j38x/208961
+#EXTINF:-1,BR: STUDIO UNIVERSAL
+http://iptvch.com:2082/yalc/j38x/208962
+#EXTINF:-1,BR: TOONCAST
+http://iptvch.com:2082/yalc/j38x/208977
+#EXTINF:-1,BR: TRU TV
+http://iptvch.com:2082/yalc/j38x/208979
+#EXTINF:-1,BR: TV DIARIO
+http://iptvch.com:2082/yalc/j38x/208981
+#EXTINF:-1,BR: TV GAZETA
+http://iptvch.com:2082/yalc/j38x/208982
+#EXTINF:-1,BR: UNIVERSAL CHANNEL
+http://iptvch.com:2082/yalc/j38x/208984
+#EXTINF:-1,BR: VIVA
+http://iptvch.com:2082/yalc/j38x/208985
+#EXTINF:-1,BR: WARNER CHANNEL
+http://iptvch.com:2082/yalc/j38x/208986
+#EXTINF:-1,BR: SPORTV
+http://iptvch.com:2082/yalc/j38x/208956
+#EXTINF:-1,BR: SPORTV 2
+http://iptvch.com:2082/yalc/j38x/208957
+#EXTINF:-1,BR: SPORTV 3
+http://iptvch.com:2082/yalc/j38x/208958
+#EXTINF:-1,BR: BAND SPORTS
+http://iptvch.com:2082/yalc/j38x/208798
+#EXTINF:-1,BR: DESPORTOS RADICAIS
+http://iptvch.com:2082/yalc/j38x/208820
+#EXTINF:-1,BR: FOX SPORTS
+http://iptvch.com:2082/yalc/j38x/208837
+#EXTINF:-1,BR: FOX SPORTS 2
+http://iptvch.com:2082/yalc/j38x/208838
+#EXTINF:-1,BR: PREMIERE CLUBES
+http://iptvch.com:2082/yalc/j38x/208991
+#EXTINF:-1,BR: PREMIERE 2
+http://iptvch.com:2082/yalc/j38x/208992
+#EXTINF:-1,BR: PREMIERE 3
+http://iptvch.com:2082/yalc/j38x/208993
+#EXTINF:-1,BR: PREMIERE 4
+http://iptvch.com:2082/yalc/j38x/208994
+#EXTINF:-1,BR: PREMIERE 5
+http://iptvch.com:2082/yalc/j38x/208995
+#EXTINF:-1,BR: PREMIERE 6
+http://iptvch.com:2082/yalc/j38x/208996
+#EXTINF:-1,BR: PREMIERE 7
+http://iptvch.com:2082/yalc/j38x/208997
